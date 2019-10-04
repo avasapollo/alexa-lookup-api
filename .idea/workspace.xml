@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cae479a-fdb1-45ee-ae70-fce51c60dd57" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lookup/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lookup/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lookup/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lookup/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lookup/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lookup/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,19 +21,9 @@
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/alexa-lookup-api.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectId" id="1Rk5hfFO5veEgBXJlBfPvDbpPwD" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
@@ -45,8 +37,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lookup" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/lookup" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -61,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Test.TestFinder_Do in github.com/avasapollo/alexa-lookup-skill/lookup">
     <configuration name="TestFinder_Do in github.com/avasapollo/alexa-lookup-skill" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="alexa-lookup-api" />
       <working_directory value="$PROJECT_DIR$/lookup" />
@@ -76,8 +68,27 @@
       <pattern value="^TestFinder_Do$" />
       <method v="2" />
     </configuration>
+    <configuration name="TestFinder_Do in github.com/avasapollo/alexa-lookup-skill/lookup" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="alexa-lookup-api" />
+      <working_directory value="$PROJECT_DIR$/lookup" />
+      <envs>
+        <env name="GOOGLE_API_KEY" value="AIzaSyCimbVrP5uJUCaaubnlFCzxpiy026auzTM" />
+      </envs>
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/avasapollo/alexa-lookup-skill/lookup" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestFinder_Do$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Test.TestFinder_Do in github.com/avasapollo/alexa-lookup-skill" />
+      <item itemvalue="Go Test.TestFinder_Do in github.com/avasapollo/alexa-lookup-skill/lookup" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestFinder_Do in github.com/avasapollo/alexa-lookup-skill/lookup" />
         <item itemvalue="Go Test.TestFinder_Do in github.com/avasapollo/alexa-lookup-skill" />
       </list>
     </recent_temporary>
